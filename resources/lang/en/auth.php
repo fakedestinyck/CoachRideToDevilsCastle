@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => '登陆账号或密码错误！',
-    'throttle' => '尝试次数过多。请过 :seconds 秒再尝试。',
+    'failed' => 'These credentials do not match our records.',
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
 ];
